@@ -111,3 +111,4 @@ r = '''
 # # # df = test.data_validation()
 # sc = test._predict()
 # print(sc)
+c
