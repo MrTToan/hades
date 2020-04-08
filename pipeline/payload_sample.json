@@ -1,0 +1,229 @@
+{
+  "event_time": 1586319905000,
+  "event_datetime": "2020-04-08T11:25:05+0700",
+  "date_key": "2020-04-08",
+  "order_code": "919970187",
+  "original_code": "919970187",
+  "payload_action": "created",
+  "order_type": -1,
+  "status": "doi_thanh_toan",
+  "created_at": 1586319905000,
+  "payment_method": "cybersource",
+  "value": 81997,
+  "grand_total": 100997,
+  "discount_coupon": 0,
+  "discount_tikixu": 0,
+  "discount_other": 0,
+  "discount_value": 0,
+  "items_qty": 1,
+  "items_count": 1,
+  "be_parent": true,
+  "be_virtual": false,
+  "shipping_value": 19000,
+  "shipping_discount_value": 0,
+  "handling_fee": 0,
+  "platform": "mobile-android",
+  "customer_id": "608386",
+  "cdp_customer_id": "608386",
+  "customer_ip": "171.253.138.125",
+  "customer_phone": "0908358666",
+  "customer_email": "netzooz@gmail.com",
+  "customer_group_id": "8",
+  "register_date": "2015-04-12",
+  "customer_profile_score": 1,
+  "customer_total_orders": 43,
+  "customer_total_success_orders": 42,
+  "customer_non_coupon_success_orders": 39,
+  "customer_canceled_orders": 0,
+  "customer_success_rate": 0.9767441860465116,
+  "customer_sku_score": 0.6787112851548593,
+  "customer_non_gift_sku_score": 0.6666666666666666,
+  "customer_white_score": 0.9285714285714286,
+  "customer_fb_score": 0,
+  "customer_gg_score": 1,
+  "customer_avt_score": 0,
+  "customer_demographic_score": 0.3333333333333333,
+  "customer_register_to_date": 1823,
+  "customer_fraud_score": 0.29042024784281817,
+  "customer_non_gift_fraud_score": 0.2952380952380953,
+  "tiki_region_code": "VN039",
+  "tiki_district_code": "VN039022",
+  "district_scores": {
+    "reseller": 1,
+    "sellerboom": 2,
+    "other": 0,
+    "total": 2
+  },
+  "tiki_ward_code": "VN039022006",
+  "ward_scores": {},
+  "region_name": "Hồ Chí Minh",
+  "district_name": "Quận Tân Bình",
+  "ward_name": "Phường 06",
+  "street": "769/11 Cách Mạng Tháng Tám",
+  "plan_id": "1",
+  "product_scores": {
+    "product_key_score": 0,
+    "cate2_score": 0.2,
+    "product_fraud_score": 0.2
+  },
+  "products": [
+    {
+      "sku": "2510759573093",
+      "product_id": "20041195",
+      "product_name": "Bộ tua vít sửa chữa điện thoại đa năng 16 in 1 (màu ngẫu nhiên)",
+      "brand": "OEM",
+      "cate_report": "3C",
+      "sub_cate_report": "Electronic Accessories",
+      "cate1": "Thiết Bị Số - Phụ Kiện Số",
+      "cate2": "Phụ Kiện Điện Thoại và Máy Tính Bảng",
+      "cate3": "Dụng Cụ Sửa Chữa và Vệ Sinh",
+      "cate4": "Dụng Cụ Sửa Chữa",
+      "cate1_id": "1815",
+      "cate2_id": "8214",
+      "cate3_id": "20242",
+      "cate4_id": "28472",
+      "seller_id": "16964",
+      "seller_name": "TECHNOLOGIE",
+      "free_gift": false,
+      "applied_rule_ids": "",
+      "price": 81997,
+      "value": 81997,
+      "handling_fee": 0,
+      "shipping_discount_value": 0,
+      "shipping_value": 19000,
+      "discount_coupon": 0,
+      "discount_tikixu": 0,
+      "discount": 0,
+      "qty": 1
+    }
+  ],
+  "seller_ids": [
+    "16964"
+  ],
+  "cate2_ids": [
+    "8214"
+  ],
+  "skus": [
+    "2510759573093"
+  ],
+  "has_cdp": true,
+  "cdp_time": 1586319929023,
+  "account_id": "31603225-a0fd-4f1f-9294-ccadc97fccd6",
+  "app_name": "Tiki",
+  "app_version": "4.45.0",
+  "browser_name": "okhttp",
+  "browser_version": "3.12.8",
+  "client_id": "2642e83f-de35-4866-b1d7-53c835c7b99a",
+  "device_id": "2642e83f-de35-4866-b1d7-53c835c7b99a",
+  "device_manufacturer": "samsung",
+  "device_type": "android",
+  "device_vendor": "Other",
+  "email": "netzooz@gmail.com",
+  "event_name": "purchase",
+  "geo_city": "Ho Chi Minh City",
+  "geo_country": "Vietnam",
+  "geo_region": "Vietnam",
+  "ip": "171.253.138.125",
+  "new_user": false,
+  "os_name": "Other",
+  "os_version": "",
+  "session_duration": 293,
+  "session_id": "b076be22-d119-410f-81ca-e7428f65e72a",
+  "user_id": "bcc74646-e06f-4f3e-9eb7-bc769c856969",
+  "transaction_time": 0,
+  "page_views": 0,
+  "customer_id_count": 1,
+  "customer_id_related_orders": [],
+  "customer_ip_count": 1,
+  "customer_ip_related_orders": [],
+  "seller_customer_ip_1h_count": [
+    {
+      "customer_ip": "171.253.138.125",
+      "seller_id": "16964",
+      "count": 1,
+      "related_orders": []
+    }
+  ],
+  "seller_customer_id_count": [
+    {
+      "customer_id": "608386",
+      "seller_id": "16964",
+      "count": 1,
+      "related_orders": []
+    }
+  ],
+  "cate2_customer_id_count": [
+    {
+      "customer_id": "608386",
+      "seller_id": "16964",
+      "cate_id": "8214",
+      "count": 1,
+      "related_orders": []
+    }
+  ],
+  "sku_customer_id_count": [
+    {
+      "customer_id": "608386",
+      "seller_id": "16964",
+      "sku": "2510759573093",
+      "count": 1,
+      "related_orders": []
+    }
+  ],
+  "seller_customer_ip_count": [
+    {
+      "customer_ip": "171.253.138.125",
+      "seller_id": "16964",
+      "count": 1,
+      "related_orders": []
+    }
+  ],
+  "cate2_customer_ip_count": [
+    {
+      "customer_ip": "171.253.138.125",
+      "seller_id": "16964",
+      "cate_id": "8214",
+      "count": 1,
+      "related_orders": []
+    }
+  ],
+  "sku_customer_ip_count": [
+    {
+      "customer_ip": "171.253.138.125",
+      "seller_id": "16964",
+      "sku": "2510759573093",
+      "count": 1,
+      "related_orders": []
+    }
+  ],
+  "customer_email_4ml_1h_count": 1,
+  "customer_email_4ml_24h_count": 1,
+  "customer_email_4ml_48h_count": 1,
+  "customer_ip_4ml_1h_count": 1,
+  "customer_ip_4ml_24h_count": 2,
+  "customer_ip_4ml_48h_count": 2,
+  "register_date_4ml_1h_count": 1,
+  "register_date_4ml_24h_count": 2,
+  "register_date_4ml_48h_count": 6,
+  "region_4ml_1h_count": 1733,
+  "region_4ml_24h_count": 22598,
+  "region_4ml_48h_count": 43694,
+  "fe_region_dist_4ml_1h_count": 242,
+  "fe_region_dist_4ml_24h_count": 2988,
+  "fe_region_dist_4ml_48h_count": 5620,
+  "fe_dist_ward_4ml_1h_count": 8,
+  "fe_dist_ward_4ml_24h_count": 63,
+  "fe_dist_ward_4ml_48h_count": 129,
+  "fe_telephone_4ml_1h_count": 889,
+  "fe_telephone_4ml_24h_count": 10488,
+  "fe_telephone_4ml_48h_count": 20437,
+  "total_amount_48h": 139254,
+  "total_amount_24h": 72669,
+  "total_amount_1h": 5550,
+  "wfp_customer_id_count": 1,
+  "wfp_customer_id_related_orders": [],
+  "oms_timestamp": 1586319905411,
+  "oms_partition": 5,
+  "oms_offset": 45405368,
+  "_register_today": false
+}
