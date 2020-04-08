@@ -9,29 +9,20 @@ class OrderScore():
 	def __init__(self, data):
 		self.data = data
 		
-
 	def data_validation(self):
-	# try:
-		order_list = json.loads(self.data)
+		order_list = self.data
 		df = []
-		print('Order list {}'.format(order_list))
 
 		for order in order_list:
-			# try:
 			feature = {}
 			feature['cust_score'] = order['cust_score']
 			feature['product_score'] = order['product_score']
 			feature['location_score'] = order['location_score']
-			print(feature)
-				
-			# finally:
+			
 			df.append(feature)
 
 		df1 = pd.DataFrame(df)
 		df2 = df1.fillna(0)
-	# except:
-		print(f"Error here: {sys.exc_info()[0]}")
-	# finally:
 		return df2
 	
 	def _predict(self):
@@ -99,16 +90,3 @@ class OrderScore():
 					# feature['seller_customer_id_count'] = 
 					# feature['cate2_customer_id_count'] = 
 					# feature['sku_customer_id_count'] = 
-r = '''
-	{
-		"cust_score": 5,
-		"product_score": 7,
-		"location_score": 8
-	}
-'''
-# test = Or
-# derScore(r)
-# # # df = test.data_validation()
-# sc = test._predict()
-# print(sc)
-c
