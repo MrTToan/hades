@@ -10,8 +10,6 @@ from pipeline import scoring
 @api_view(['POST'])
 def predict_score(request):
     raw = JSONParser().parse(request)
-    # print(raw)
-    # import pdb; pdb.set_trace()
     order = scoring.OrderScore(raw)
     score = order._predict()
     return Response(score, template_name='HTMLRenderer')
