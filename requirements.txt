@@ -1,0 +1,6 @@
+sklearn==0.0
+pandas==0.25.1
+pandas-gbq==0.13.0
+google-auth-oauthlib==0.4.1
+Django==3.0.4
+djangorestframework==3.11.0

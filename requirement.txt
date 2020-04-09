@@ -1,6 +1,0 @@
-pandas
-sklearn
-pandas-gbq
-google.oauth2
-django
-djangorestframework
