@@ -1,6 +1,6 @@
 pandas
 sklearn
 pandas-gbq
-google.oauth2
+google-oauth2-tool
 django
 djangorestframework
