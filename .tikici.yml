@@ -6,14 +6,14 @@ deployment_config:
   prod:
     ingress:
       hosts:
-      - host: .tiki.services
+      - host: hades.tiki.services
         paths:
         - path: /
           port: 80
   uat:
     ingress:
       hosts:
-      - host: .dev.tiki.services
+      - host: hades.dev.tiki.services
         paths:
         - path: /
           port: 80
