@@ -17,12 +17,7 @@ jobs:
     deploy_dev:
         steps:
         - deploy_dev:
-            workload: 'hades'
-            has_worker: "no"
-    deploy_production:
-        steps:
-        - deploy_production:
-            workload: 'hades'
+            workload: hades
             has_worker: "no"
 
 workflows:
