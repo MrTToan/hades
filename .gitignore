@@ -1,2 +1,5 @@
 pipeline/fraud_raw_data_v2.csv
 fraud_raw_data_v2.csv
+__pycache__/
+.ipynb_checkpoints
+credentials.json
